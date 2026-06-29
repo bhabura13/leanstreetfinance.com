@@ -1,0 +1,7 @@
+Sitemap: https://leanstreetfinance.com/sitemap.xml
+Sitemap: https://leanstreetfinance.com/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://leanstreetfinance.com/sitemap_index.xml
